@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Adnetwork Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_intro">This app is for testing Adnetworks SDK.</string>
+    
+    <string name="btn_appnext">Appnext</string>
+    <string name="btn_mopub">Mopub</string>
+    <string name="btn_flurry">Flurry</string>
+    <string name="btn_inmobi">Inmobi</string>
+    <string name="btn_leadbolt">Leadbolt</string>
+    <string name="btn_adcolony">Ad Colony</string>
+    <string name="btn_mmidial">Millenial</string>
+    <string name="btn_mobusi">Mobusi</string>
+    <string name="title_activity_appnext">AppnextActivity</string>
+    <string name="title_activity_mopub">MopubActivity</string>
+
+</resources>
