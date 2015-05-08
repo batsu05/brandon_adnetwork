@@ -90,6 +90,8 @@
     <orderEntry type="library" exported="" name="play-services-appindexing-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-wallet-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-drive-7.3.0" level="project" />
+    <orderEntry type="library" exported="" name="mopub-volley-1.1.0" level="project" />
+    <orderEntry type="library" exported="" name="1_mopub-volley-1.1.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-location-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-games-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-appstate-7.3.0" level="project" />
@@ -112,5 +114,6 @@
     <orderEntry type="library" exported="" name="AppnextSDK" level="project" />
     <orderEntry type="library" exported="" name="play-services-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-base-7.3.0" level="project" />
+    <orderEntry type="module" module-name="mopub-sdk" exported="" />
   </component>
 </module>
