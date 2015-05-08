@@ -16,4 +16,8 @@
     <string name="title_activity_appnext">AppnextActivity</string>
     <string name="title_activity_mopub">MopubActivity</string>
 
+    <string name="native_icon_image">native_icon_image</string>
+    <string name="native_main_image">native_main_image</string>
+    <string name="native_cta_text">Install</string>
+
 </resources>
