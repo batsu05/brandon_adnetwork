@@ -1,1 +1,1 @@
-include ':app', ':mopub-sdk'
+include ':app', ':mopub-sdk', ':app_admob_banner'
