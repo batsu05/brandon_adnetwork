@@ -48,6 +48,23 @@ public class MainActivity extends ActionBarActivity {
             }
         });
 
+        // Admob Banner button
+        Button btnAdmobBanner = (Button)findViewById(R.id.btn_admob_banner);
+        btnAdmobBanner.setOnClickListener(new Button.OnClickListener(){
+            public void onClick(View v){
+                Intent intent = new Intent(MainActivity.this, AdmobBanActivitiy.class);
+                startActivity(intent);
+            }
+        });
+
+        // Admob Interstitial button
+        Button btnAdmobInt = (Button)findViewById(R.id.btn_admob_inter);
+        btnAdmobInt.setOnClickListener(new Button.OnClickListener(){
+            public void onClick(View v){
+                Intent intent = new Intent(MainActivity.this, AdmobIntActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 

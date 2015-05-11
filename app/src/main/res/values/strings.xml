@@ -13,11 +13,20 @@
     <string name="btn_adcolony">Ad Colony</string>
     <string name="btn_mmidial">Millenial</string>
     <string name="btn_mobusi">Mobusi</string>
+    <string name="btn_admob_banner">Admob Banner</string>
+    <string name="btn_admob_inter">Admob Interstitial</string>
+
     <string name="title_activity_appnext">AppnextActivity</string>
     <string name="title_activity_mopub">MopubActivity</string>
 
     <string name="native_icon_image">native_icon_image</string>
     <string name="native_main_image">native_main_image</string>
     <string name="native_cta_text">Install</string>
+    <string name="title_activity_admob_ban_activitiy">AdmobBanActivitiy</string>
+    <string name="title_activity_admob_int">AdmobIntActivity</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id.-->
+    <string name="banner_ad_unit_id">ca-app-pub-7852048562927353/6629920024</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> -->
 
 </resources>

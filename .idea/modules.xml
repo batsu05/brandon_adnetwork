@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/BrandonAdnetworkTest.iml" filepath="$PROJECT_DIR$/BrandonAdnetworkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_admob_banner/app_admob_banner.iml" filepath="$PROJECT_DIR$/app_admob_banner/app_admob_banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_admob_int/app_admob_int.iml" filepath="$PROJECT_DIR$/app_admob_int/app_admob_int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_dc_banner/app_dc_banner.iml" filepath="$PROJECT_DIR$/app_dc_banner/app_dc_banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_dc_int/app_dc_int.iml" filepath="$PROJECT_DIR$/app_dc_int/app_dc_int.iml" />
       <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk.iml" />
     </modules>
   </component>

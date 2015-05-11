@@ -27,4 +27,20 @@
         android:id="@+id/btn_mopub"
         android:layout_below="@+id/btn_appnext"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_admob_banner"
+        android:id="@+id/btn_admob_banner"
+        android:layout_below="@+id/btn_mopub"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_admob_inter"
+        android:id="@+id/btn_admob_inter"
+        android:layout_below="@+id/btn_admob_banner"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
